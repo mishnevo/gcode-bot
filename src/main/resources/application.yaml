@@ -1,0 +1,16 @@
+bot:
+  name: "@mishnevo2bot"
+  token: "6982697990:AAEecu40GcqAphqTG72QBqte8gerQCfY5Hc"
+  baseUrl:  "https://api.telegram.org/bot"
+  media-url: "https://api.telegram.org/file/bot"
+back:
+  url: "http://localhost:8080"
+  simpleCode: "/rest/image/transform-to-svg/kid-code"
+  toStand: ""
+server:
+  port: 8081
+
+logging:
+  level:
+    org.springframework.beans: DEBUG
+    com.gcode.transfer: DEBUG
