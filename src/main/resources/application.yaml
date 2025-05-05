@@ -1,6 +1,6 @@
 bot:
   name: "@mishnevo2bot"
-  token: "6982697990:AAEecu40GcqAphqTG72QBqte8gerQCfY5Hc"
+  token: ""
   baseUrl:  "https://api.telegram.org/bot"
   media-url: "https://api.telegram.org/file/bot"
 back:
